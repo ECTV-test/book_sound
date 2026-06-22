@@ -1,0 +1,332 @@
+{
+  "id": "dracula_a1",
+  "audio": "Dracula_Song_A1.mp3",
+  "level": "A1",
+  "duration": 259.55,
+  "lines": [
+    {
+      "i": 0,
+      "section": "Verse 1",
+      "start": 12.04,
+      "end": 20.35,
+      "en": "Jonathan goes far away,",
+      "uk": "Джонатан їде далеко,",
+      "ru": "Джонатан уезжает далеко,"
+    },
+    {
+      "i": 1,
+      "section": "Verse 1",
+      "start": 20.35,
+      "end": 26.46,
+      "en": "To a castle dark and gray.",
+      "uk": "До замку, темного й сірого.",
+      "ru": "К замку, тёмному и серому."
+    },
+    {
+      "i": 2,
+      "section": "Verse 1",
+      "start": 26.46,
+      "end": 32.74,
+      "en": "Count Dracula opens the door,",
+      "uk": "Граф Дракула відчиняє двері,",
+      "ru": "Граф Дракула открывает дверь,"
+    },
+    {
+      "i": 3,
+      "section": "Verse 1",
+      "start": 32.74,
+      "end": 39.88,
+      "en": "Jonathan is scared for sure.",
+      "uk": "Джонатан справді наляканий.",
+      "ru": "Джонатан и вправду напуган."
+    },
+    {
+      "i": 4,
+      "section": "Chorus",
+      "start": 39.88,
+      "end": 46.31,
+      "en": "Dracula, Dracula, in the night,",
+      "uk": "Дракула, Дракула, уночі,",
+      "ru": "Дракула, Дракула, в ночи,"
+    },
+    {
+      "i": 5,
+      "section": "Chorus",
+      "start": 46.31,
+      "end": 52.17,
+      "en": "Moving softly, out of sight.",
+      "uk": "Тихо рухається, непомітно.",
+      "ru": "Движется тихо, незаметно."
+    },
+    {
+      "i": 6,
+      "section": "Chorus",
+      "start": 52.17,
+      "end": 59.03,
+      "en": "Dark red eyes, pale white face,",
+      "uk": "Темно-червоні очі, бліде обличчя,",
+      "ru": "Тёмно-красные глаза, бледное лицо,"
+    },
+    {
+      "i": 7,
+      "section": "Chorus",
+      "start": 59.03,
+      "end": 68.06,
+      "en": "Living in a lonely place.",
+      "uk": "Живе в самотньому місці.",
+      "ru": "Живёт в одиноком месте."
+    },
+    {
+      "i": 8,
+      "section": "Verse 2",
+      "start": 68.06,
+      "end": 74.27,
+      "en": "Jonathan wants to run away,",
+      "uk": "Джонатан хоче втекти,",
+      "ru": "Джонатан хочет сбежать,"
+    },
+    {
+      "i": 9,
+      "section": "Verse 2",
+      "start": 74.27,
+      "end": 80.76,
+      "en": "But all the doors are closed today.",
+      "uk": "Та всі двері сьогодні зачинені.",
+      "ru": "Но все двери сегодня закрыты."
+    },
+    {
+      "i": 10,
+      "section": "Verse 2",
+      "start": 80.76,
+      "end": 86.81,
+      "en": "Three strange women come at night,",
+      "uk": "Три дивні жінки приходять уночі,",
+      "ru": "Три странные женщины приходят в ночи,"
+    },
+    {
+      "i": 11,
+      "section": "Verse 2",
+      "start": 86.81,
+      "end": 94.41,
+      "en": "Everything feels wrong and strange.",
+      "uk": "Усе здається не так і дивно.",
+      "ru": "Всё кажется неправильным и странным."
+    },
+    {
+      "i": 12,
+      "section": "Chorus",
+      "start": 94.41,
+      "end": 100.84,
+      "en": "Dracula, Dracula, in the night,",
+      "uk": "Дракула, Дракула, уночі,",
+      "ru": "Дракула, Дракула, в ночи,"
+    },
+    {
+      "i": 13,
+      "section": "Chorus",
+      "start": 100.84,
+      "end": 106.62,
+      "en": "Moving softly, out of sight.",
+      "uk": "Тихо рухається, непомітно.",
+      "ru": "Движется тихо, незаметно."
+    },
+    {
+      "i": 14,
+      "section": "Chorus",
+      "start": 106.62,
+      "end": 113.72,
+      "en": "Dark red eyes, pale white face,",
+      "uk": "Темно-червоні очі, бліде обличчя,",
+      "ru": "Тёмно-красные глаза, бледное лицо,"
+    },
+    {
+      "i": 15,
+      "section": "Chorus",
+      "start": 113.72,
+      "end": 120.41,
+      "en": "Living in a lonely place.",
+      "uk": "Живе в самотньому місці.",
+      "ru": "Живёт в одиноком месте."
+    },
+    {
+      "i": 16,
+      "section": "Verse 3",
+      "start": 120.41,
+      "end": 126.08,
+      "en": "Lucy walks out in her sleep,",
+      "uk": "Люсі ходить уві сні,",
+      "ru": "Люси ходит во сне,"
+    },
+    {
+      "i": 17,
+      "section": "Verse 3",
+      "start": 126.08,
+      "end": 132.28,
+      "en": "By the sea the night is deep.",
+      "uk": "Біля моря ніч глибока.",
+      "ru": "У моря ночь глубока."
+    },
+    {
+      "i": 18,
+      "section": "Verse 3",
+      "start": 132.28,
+      "end": 138.7,
+      "en": "She grows weak day after day,",
+      "uk": "Вона слабшає день за днем,",
+      "ru": "Она слабеет день ото дня,"
+    },
+    {
+      "i": 19,
+      "section": "Verse 3",
+      "start": 138.7,
+      "end": 145.84,
+      "en": "Something takes her life away.",
+      "uk": "Щось забирає її життя.",
+      "ru": "Что-то забирает её жизнь."
+    },
+    {
+      "i": 20,
+      "section": "Verse 4",
+      "start": 145.84,
+      "end": 152.2,
+      "en": "Mina cries and Jonathan knows,",
+      "uk": "Міна плаче, і Джонатан знає,",
+      "ru": "Мина плачет, и Джонатан знает,"
+    },
+    {
+      "i": 21,
+      "section": "Verse 4",
+      "start": 152.2,
+      "end": 157.78,
+      "en": "Dracula is very close.",
+      "uk": "Дракула зовсім близько.",
+      "ru": "Дракула совсем близко."
+    },
+    {
+      "i": 22,
+      "section": "Verse 4",
+      "start": 157.78,
+      "end": 164.15,
+      "en": "\"We must stop him!\" all men say,",
+      "uk": "«Ми мусимо його спинити!» — кажуть усі,",
+      "ru": "«Мы должны его остановить!» — говорят все,"
+    },
+    {
+      "i": 23,
+      "section": "Verse 4",
+      "start": 164.15,
+      "end": 171.26,
+      "en": "So they follow him away.",
+      "uk": "І вони вирушають за ним.",
+      "ru": "И они идут за ним."
+    },
+    {
+      "i": 24,
+      "section": "Chorus",
+      "start": 171.26,
+      "end": 177.33,
+      "en": "Dracula, Dracula, run and hide,",
+      "uk": "Дракула, Дракула, тікай і ховайся,",
+      "ru": "Дракула, Дракула, беги и прячься,"
+    },
+    {
+      "i": 25,
+      "section": "Chorus",
+      "start": 177.33,
+      "end": 183.15,
+      "en": "The brave men are close behind.",
+      "uk": "Сміливці вже близько позаду.",
+      "ru": "Смельчаки уже близко позади."
+    },
+    {
+      "i": 26,
+      "section": "Chorus",
+      "start": 183.15,
+      "end": 189.56,
+      "en": "Over mountains, through the snow,",
+      "uk": "Через гори, крізь сніг,",
+      "ru": "Через горы, сквозь снег,"
+    },
+    {
+      "i": 27,
+      "section": "Chorus",
+      "start": 189.56,
+      "end": 196.5,
+      "en": "To his castle they all go.",
+      "uk": "До його замку всі йдуть.",
+      "ru": "К его замку все идут."
+    },
+    {
+      "i": 28,
+      "section": "Verse 5",
+      "start": 196.5,
+      "end": 202.6,
+      "en": "Near the castle, near the end,",
+      "uk": "Біля замку, близько кінця,",
+      "ru": "У замка, близко к концу,"
+    },
+    {
+      "i": 29,
+      "section": "Verse 5",
+      "start": 202.6,
+      "end": 208.39,
+      "en": "Mina waits with all her friends.",
+      "uk": "Міна чекає з усіма друзями.",
+      "ru": "Мина ждёт со всеми друзьями."
+    },
+    {
+      "i": 30,
+      "section": "Verse 5",
+      "start": 208.39,
+      "end": 214.73,
+      "en": "They find Dracula at last,",
+      "uk": "Нарешті вони знаходять Дракулу,",
+      "ru": "Наконец они находят Дракулу,"
+    },
+    {
+      "i": 31,
+      "section": "Verse 5",
+      "start": 214.73,
+      "end": 221.59,
+      "en": "Now the danger is in the past.",
+      "uk": "Тепер небезпека позаду.",
+      "ru": "Теперь опасность позади."
+    },
+    {
+      "i": 32,
+      "section": "Final Chorus",
+      "start": 221.59,
+      "end": 227.81,
+      "en": "Dracula, Dracula, now he's gone,",
+      "uk": "Дракула, Дракула, тепер його немає,",
+      "ru": "Дракула, Дракула, теперь его нет,"
+    },
+    {
+      "i": 33,
+      "section": "Final Chorus",
+      "start": 227.81,
+      "end": 234.1,
+      "en": "Mina's safe and life goes on.",
+      "uk": "Міна в безпеці, і життя триває.",
+      "ru": "Мина в безопасности, и жизнь продолжается."
+    },
+    {
+      "i": 34,
+      "section": "Final Chorus",
+      "start": 234.1,
+      "end": 240.97,
+      "en": "Jonathan and Mina smile,",
+      "uk": "Джонатан і Міна усміхаються,",
+      "ru": "Джонатан и Мина улыбаются,"
+    },
+    {
+      "i": 35,
+      "section": "Final Chorus",
+      "start": 240.97,
+      "end": 244.97,
+      "en": "Peace returns after a while.",
+      "uk": "Спокій повертається за якийсь час.",
+      "ru": "Покой возвращается спустя время."
+    }
+  ]
+}
